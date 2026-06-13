@@ -1,4 +1,4 @@
-# ESP32 Jarvis Arrosage : Système d'Arrosage Connecté et Non Bloquant
+# ESP32: Système d'Arrosage Connecté 
 
 ![Platform: ESP32](https://img.shields.io/badge/Platform-ESP32-blue?style=for-the-badge&logo=espressif)
 ![API: Telegram](https://img.shields.io/badge/API-Telegram-2CA5E0?style=for-the-badge&logo=telegram)
